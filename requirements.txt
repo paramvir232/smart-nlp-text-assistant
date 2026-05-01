@@ -3,3 +3,4 @@ nltk
 spacy
 scikit-learn
 pyspellchecker
+pandas
